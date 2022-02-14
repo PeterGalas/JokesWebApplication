@@ -71,7 +71,6 @@ C:\Users\peter\source\repos\JokesWebApplication\JokesWebApplication\obj\Debug\ne
 C:\Users\peter\source\repos\JokesWebApplication\JokesWebApplication\obj\Debug\netcoreapp3.1\JokesWebApplication.RazorAssemblyInfo.cs
 C:\Users\peter\source\repos\JokesWebApplication\JokesWebApplication\obj\Debug\netcoreapp3.1\staticwebassets\JokesWebApplication.StaticWebAssets.Manifest.cache
 C:\Users\peter\source\repos\JokesWebApplication\JokesWebApplication\obj\Debug\netcoreapp3.1\staticwebassets\JokesWebApplication.StaticWebAssets.xml
-C:\Users\peter\source\repos\JokesWebApplication\JokesWebApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\JokesWebApplication.styles.css
 C:\Users\peter\source\repos\JokesWebApplication\JokesWebApplication\obj\Debug\netcoreapp3.1\JokesWebApplication.TagHelpers.input.cache
 C:\Users\peter\source\repos\JokesWebApplication\JokesWebApplication\obj\Debug\netcoreapp3.1\JokesWebApplication.TagHelpers.output.cache
 C:\Users\peter\source\repos\JokesWebApplication\JokesWebApplication\obj\Debug\netcoreapp3.1\JokesWebApplication.RazorCoreGenerate.cache
